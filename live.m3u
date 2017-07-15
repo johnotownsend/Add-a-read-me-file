@@ -1,7 +1,7 @@
 # Add-a-read-me-file
 ‪#EXTM3U
 #‎EXTINF‬:-1,AFL LIVE
-rtmp://$OPT:rtmp-raw=rtmp://118.97.183.196/jhos/aplus|X-Forwarded-For=110.33.122.75
+rtmp://$OPT:rtmp-raw=rtmp://118.97.183.196/jhos/aplus
 #EXTINF:-1,ITA SKYSPORTS 2
 rtmp://$OPT:rtmp-raw=rtmp://88.86.125.177:1935/live playpath=skyita2new swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
 #EXTINF:-1,ITA SKYSPORTS 3
