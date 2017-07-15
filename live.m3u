@@ -3,7 +3,7 @@
 #‎EXTINF‬:-1,AFL LIVE
 rtmp://$OPT:rtmp-raw=rtmp://118.97.183.196/jhos/aplus
 #EXTINF:-1,ITA SKYSPORTS 2
-rtmp://$OPT:rtmp-raw=rtmp://118.97.183.196/jhos/aplus|X-Forwarded-For=110.33.122.75
+rtmp://118.97.183.196/jhos/aplus|X-Forwarded-For=110.33.122.75
 #EXTINF:-1,ITA SKYSPORTS 3
 rtmp://$OPT:rtmp-raw=rtmp://88.86.125.177:1935/live playpath=sky03itanew pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
 #EXTINF:-1,UK SKYSPORTS 1
