@@ -1,0 +1,28 @@
+# Add-a-read-me-file
+‪#EXTM3U
+#‎EXTINF‬:-1,AFL LIVE
+rtmp://$OPT:rtmp-raw=rtmp://118.97.183.196/jhos/aplus|X-Forwarded-For=110.33.122.75
+#EXTINF:-1,ITA SKYSPORTS 2
+rtmp://$OPT:rtmp-raw=rtmp://88.86.125.177:1935/live playpath=skyita2new swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
+#EXTINF:-1,ITA SKYSPORTS 3
+rtmp://$OPT:rtmp-raw=rtmp://88.86.125.177:1935/live playpath=sky03itanew pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
+#EXTINF:-1,UK SKYSPORTS 1
+rtmp://$OPT:rtmp-raw=rtmp://88.86.125.177:1935/live playpath=ss1 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
+#EXTINF:-1,UK SKYSPORTS 2
+rtmp://$OPT:rtmp-raw=rtmp://88.86.125.177:1935/live playpath=ss2 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
+#EXTINF:-1,UK SKYSPORTS 3
+rtmp://$OPT:rtmp-raw=rtmp://88.86.125.177:1935/live playpath=ss3 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
+#EXTINF:-1,UK SKYSPORTS 4
+rtmp://$OPT:rtmp-raw=rtmp://88.86.125.177:1935/live playpath=ss4 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
+#EXTINF:-1,UK SKYSPORTS 5
+rtmp://$OPT:rtmp-raw=rtmp://88.86.125.177:1935/live playpath=ss5 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
+#EXTINF:-1,UK SKYSPORTS F1
+rtmp://$OPT:rtmp-raw=rtmp://88.86.125.177:1935/live playpath=ssf1 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
+#EXTINF:-1,BT SPORT 1
+rtmp://$OPT:rtmp-raw=rtmp://88.86.125.177:1935/live playpath=bt1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
+#EXTINF:-1,BT SPORT 2
+rtmp://$OPT:rtmp-raw=rtmp://88.86.125.177:1935/live playpath=bt2 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
+#EXTINF:-1,EUROSPORT UK 2
+rtmp://$OPT:rtmp-raw=rtmp://88.86.125.177:1935/live playpath=eurs1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
+#EXTINF:-1,EUROSPORT2 UK
+rtmp://$OPT:rtmp-raw=rtmp://88.86.125.177:1935/live playpath=eurs2 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
